@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: linear-gradient(#01012e,#240019);
+    height: 100vh;
+}
+section{
+    background: url(مشروع);
+}
